@@ -39,7 +39,7 @@
 							>
 							Смотреть сейчас!
 						</button>
-						<div data-block="widget-feedback" data-title="Обратная связь" data-stick="false">
+						<div data-block="widget-feedback" data-title="Обратная связь" data-stick="right">
 							<div data-type="mail" data-url="mailto:MikhaelLEE-site@yandex.ru?subject=Картотека%20фильмов%20и%20сериалов!&amp;"></div>
 						</div>
 				]]></turbo:content></item></channel></rss>
