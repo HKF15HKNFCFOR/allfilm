@@ -28,6 +28,9 @@
 							<meta itemprop="ratingValue" content="4.8">
 							<meta itemprop="bestRating" content="5">
 						</div>
+						<div data-block="widget-feedback" data-title="Обратная связь" data-stick="false">
+							<div data-type="mail" data-url="mailto:MikhaelLEE-site@yandex.ru?subject=Картотека%20фильмов%20и%20сериалов!&amp;"></div>
+						</div>
 						<p>У нас на сайте содержится <strong>57 160</strong> фильмов и сериалов на любой вкус. Переходи по ссылке и смотри! На сайте нет рекламы и все фильмы БЕСПЛАТНЫЕ.</p>
 						<img src="https://allfilm.gq/icon/banner.png"/>
 						<button
