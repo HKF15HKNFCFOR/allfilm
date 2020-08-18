@@ -36,7 +36,6 @@
 							data-color="#ffffff"
 							data-turbo="false"
 							data-primary="true"
-							disabled
 							>
 							Смотреть сейчас!
 						</button>
