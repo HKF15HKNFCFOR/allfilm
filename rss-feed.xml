@@ -32,7 +32,7 @@
 						<img src="https://allfilm.gq/icon/banner.png"/>
 						<button
 							formaction="https://allfilm.gq"
-							data-background-color="#40321c"
+							data-background-color="#d0bb60"
 							data-color="#ffffff"
 							data-turbo="false"
 							data-primary="true"
