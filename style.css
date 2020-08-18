@@ -17,7 +17,7 @@ p {
 #titl{
 	color:#964b23;
 }
-a {
+a{
 	background-color: #b7a381;
 	color: #421b0b;
 	padding: 1em 2em;
@@ -28,7 +28,6 @@ a {
 a:hover {
 	background-color: #555;
 }
-
 .container-1 input#search{
 	width: 300px;
 	height: 50px;
@@ -42,6 +41,7 @@ a:hover {
 	border-radius: 9px;
 }
 button.button19 {
+	font-size: 15px;
   display: inline-block;
   font-weight: bold;
   color: #fff;
@@ -74,3 +74,13 @@ button.button19 {
   -webkit-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
+footer {
+	font-size: 1.1rem;
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    color: black; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: rgba(255,255,255,.86); /* Цвет фона */
+	text-align: center;
+   }
