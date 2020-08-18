@@ -24,12 +24,16 @@
 							<a href="https://allfilm.gq">Главная</a>
 						</menu>
 					</header>
+						<div itemscope itemtype="http://schema.org/Rating">
+							<meta itemprop="ratingValue" content="4.7">
+							<meta itemprop="bestRating" content="5">
+						</div>
 						<p>У нас на сайте содержится <strong>57 160</strong> фильмов и сериалов на любой вкус. Переходи по ссылке и смотри! На сайте нет рекламы и все фильмы БЕСПЛАТНЫЕ.</p>
 						<img src="https://allfilm.gq/icon/banner.png"/>
 						<button
 							formaction="https://allfilm.gq"
 							data-background-color="#a81e1e"
-							data-color="white"
+							data-color="#000000"
 							data-turbo="false"
 							data-primary="true"
 							disabled
