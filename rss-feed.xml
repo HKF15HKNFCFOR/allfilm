@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss 
+	xmlns:yandex="http://news.yandex.ru"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:turbo="http://turbo.yandex.ru" 
+	version="2.0">
+		<channel>
+		<title>Все фильмы</title>
+		<link>https://allfilm.gq</link>
+		<description>Множество фильмов и сериалов на любой вкус!</description>
+		<language>ru</language>
+		<author>MikhaelLEE</author>
+		<yandex:analytics type="Yandex" id="66527227"/>
+		<item turbo="true">
+			<title>Все фильмы</title><link>https://allfilm.gq</link><category>Официальный сайт</category>
+			<description>Огромное колличество фильмов и сериалов на любой вкус. В нашем онлайн кинотеатре вы можете посмотреть кино БЕСПЛАТНО и БЕЗ РЕКЛАМЫ ОНЛАЙН</description>
+				<turbo:content><![CDATA[
+					<header>
+						<h1>Картотека фильмов и сериалов!</h1>
+						<figure>
+							<img src="https://allfilm.gq/icon/android-icon-72x72.png"/>
+						</figure>
+						<menu>
+							<a href="https://allfilm.gq">Главная</a>
+						</menu>
+					</header>
+						<p>У нас на сайте содержится <strong>57 160</strong> фильмов и сериалов на любой вкус! Переходи по ссылке и смотри! На сайте нет рекламы и все фильмы бесплатные.</p>
+				]]></turbo:content></item></channel></rss>
