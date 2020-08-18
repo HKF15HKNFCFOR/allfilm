@@ -31,12 +31,12 @@
 <div data-block="widget-feedback" data-title="Обратная связь" data-stick="false">
     <div data-type="call" data-url="+7 012 345-67-89"></div>
     <div data-type="callback"
-         data-send-to="allfilm.gq"
+         data-send-to="MikhaelLEE-site@yandex.ru"
          data-agreement-company="ООО Ромашка"
          data-agreement-link="http://allfilm.gq"
     >
     </div>
-    <div data-type="mail" data-url="mailto:mail@example.com"></div>
+    <div data-type="mail" data-url="mailto:MikhaelLEE-site@yandex.ru"></div>
     <div data-type="chat"></div>
     <div data-type="facebook" data-url="https://fb.com/example"></div>
     <div data-type="google" data-url="https://plus.google.com/"></div>
