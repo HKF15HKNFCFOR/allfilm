@@ -1,3 +1,2 @@
 User-agent: *
-Sitemap: https://allfilm.gq/sitemap.xml
-Host: allfilm.gq
+Disallow: /
